@@ -1,4 +1,4 @@
-chitchat
+# chit-chat boilerplate
 ========
 
-node chat
+A basic node.js chatapp boilerplate using sockets
